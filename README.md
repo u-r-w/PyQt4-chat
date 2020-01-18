@@ -1,11 +1,12 @@
 
-Ini adalah project untuk implementasi client dan server UDP menggunakan
-Pyhton dan Qt4 di Ubuntu
+Ini adalah project implementasi client dan server UDP menggunakan Pyhton dan Qt4 di Ubuntu
 
-This is project implementation of client and server UDP with 
-python and Qt4 on ubuntu
+Implemented UDP client and server project with, built on python and Qt4 Ubuntu
 
 Run with :
 
   + `$ python3 udb_chat_server.py (in one terminal)`
   + `$ python3 udp_chat_client.py (other terminal/PC with same wifi network )`
+
+## Copyright & License 
+  - [MIT](https://github.com/umarudy/PyQt4-chat/blob/master/LICENSE)
